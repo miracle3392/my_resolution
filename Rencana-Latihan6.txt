@@ -2,6 +2,7 @@ Rencana Latihan 6
 - Blablabla1
   * coba1
   * coba2
+- Blablabla5
 - Blablabla2
 - Blablabla3
 - Blablabla4
